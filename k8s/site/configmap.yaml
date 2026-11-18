@@ -13,6 +13,6 @@ data:
       <body>
         <h1>Bienvenue sur mon site</h1>
         <!-- TODO : personnalisez la page (votre nom, votre groupe...) -->
-        <p>Servi par Kubernetes.</p>
+        <p>Servi par Kubernetes fait par Matthieu PERESSONI</p>
       </body>
     </html>
